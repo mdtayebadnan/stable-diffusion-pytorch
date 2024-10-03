@@ -11,6 +11,6 @@ I am extremely grateful to the following repositories for their valuable resourc
 - Pillow
 - regex
 - tqdm
-# How to Install
+## How to Install
 
-# How to Use
+## How to Use
