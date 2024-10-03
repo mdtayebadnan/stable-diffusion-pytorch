@@ -1,1 +1,1 @@
-# stable-diffusion-pytorch
+# Stable Diffusion Model implementation with Pytorch
