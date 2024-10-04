@@ -8,8 +8,8 @@
 - Pillow
 - regex
 - tqdm
-## How to Install
 
+<!-- + ## How to Install + -->
 <!-- + ## How to Use + -->
 
 ## References
