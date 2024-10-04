@@ -1,4 +1,4 @@
-# Stable Diffusion Model implementation with Pytorch
+# Stable Diffusion Model
 ![image](https://github.com/user-attachments/assets/87a17b82-9f6c-4700-adad-dd0b5e1ee211)
 
 I am extremely grateful to the following repositories for their valuable resources and inspiration, which greatly contributed to the development of this project:
